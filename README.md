@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noman3380
+- 👋 Hi, I’m @Nouman Haider
 - 👀 I’m interested in UX/UI
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on ...
